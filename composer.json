@@ -28,7 +28,7 @@
         "jawira/case-converter": "^3.4",
         "symfony/http-foundation": "^4.0|^5.0|^6.0",
         "symfony/filesystem": "^4.0|^5.0",
-        "symfony/console": "^4.3|^5.1",
+        "symfony/console": "^4.3|^5.1|^6.4",
         "fakerphp/faker": "^1.13",
         "whitecube/lingua": "^1.1",
         "ext-fileinfo": "*",
